@@ -1,0 +1,18 @@
+{
+  "overfit": {
+    "train_acc": 1.0,
+    "test_acc": 0.945,
+    "attack_auc": 0.617,
+    "attack_advantage": 0.28,
+    "mean_loss_members": 0.0002,
+    "mean_loss_nonmembers": 0.2068
+  },
+  "regularised": {
+    "train_acc": 0.99,
+    "test_acc": 0.922,
+    "attack_auc": 0.589,
+    "attack_advantage": 0.145,
+    "mean_loss_members": 0.0669,
+    "mean_loss_nonmembers": 0.2182
+  }
+}
