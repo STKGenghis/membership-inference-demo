@@ -78,5 +78,5 @@ Also works as-is in Google Colab.
 
 ## Authorship
 
-Code drafted with AI assistance (Claude). I ran and studied it, and I wrote up the
-interpretation and limitations. — Saima Tariq Khan
+Code and write-up drafted with AI assistance (Claude). I ran the code, studied how it works,
+and reviewed the results and interpretation. — Saima Tariq Khan
